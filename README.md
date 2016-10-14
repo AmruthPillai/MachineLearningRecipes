@@ -1,10 +1,11 @@
 ## Machine Learning Recipes with Josh Gordon
-A video tutorial to Machine Learning by Google Developers, found here: https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal
+A video tutorial to Machine Learning by Google Developers, found here:  
+https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal
 
 ---
 
 
-##### Here are the contents to this lesson:  
+#### Here are the contents to this lesson:  
  - **Chapter 1:** [Hello World](https://www.youtube.com/watch?v=cKxRvEZd3Mw)  
 *Six lines of Python is all it takes to write your first machine learning program! In this episode, we'll briefly introduce what machine learning is and why it's important. Then, we'll follow a recipe for supervised learning (a technique to create a classifier from examples) and code it up.* 
  - **Chapter 2:** [Visualizing a Decision Tree](https://www.youtube.com/watch?v=tNa99PG8hR8)  
